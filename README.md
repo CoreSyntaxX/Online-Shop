@@ -18,6 +18,9 @@ In addition, this project supports long-term goals in cybersecurity and bug boun
 ##Screenshots
 
 ![Alt text](/screenshots/home.png?raw=true "Optional Title")
+![Alt text](/screenshots/login.png?raw=true "Optional Title")
+![Alt text](/screenshots/signup.png?raw=true "Optional Title")
+![Alt text](/screenshots/cart.png?raw=true "Optional Title")
 
 
 ---
